@@ -108,6 +108,7 @@ using namespace std;
  };
  int main()
  {
+	 cout<"---------------------------";
  	list l1;
  	int a;
  	int choice;
